@@ -4,7 +4,7 @@ Extension of the EthereumDB application with the function of tracing all the erc
 # Design of the database
 The steps of implementation is as follows:
 ## Get logs from every block
-Since for all the ERC20 tokens, there is a significant value in their transactions: the //tx['topic']// is equal to //sha3('Transfer(address,address,uint256)')//
+Since for all the ERC20 tokens, there is a significant value in their transactions: the `tx['topic']` is equal to `sha3('Transfer(address,address,uint256)')`
 #### tx
 Variable | Meaning
 --- | --- 
