@@ -27,4 +27,4 @@ Variable | Meaning
 The test method is similar to the reference [here](https://github.com/validitylabs/EthereumDB/blob/master).
 you may run `python3 test_data.py` under the folder's directory.
 Here is a result of test code:
-[](Guchuan_work/test_result.png)
+![](Guchuan_work/test_result.png)
